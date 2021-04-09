@@ -3,14 +3,14 @@
   
   
   
- ### 🙌 hi there 🙌
- #### I'm Android developer **"je vais vaincre l'adversité"**
+ ## 🙌 hi there 🙌
+ ### I'm Android developer **"je vais vaincre l'adversité"**
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/nayeon15/)](https://github.com/nayeon15/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayeonvita@gmail.com)](mailto:nayeonvita@gmail.com)
 	
 
-### 🔥 tech stack 🔥
+## 🔥 tech stack 🔥
 <img src="https://img.shields.io/badge/Java-A52A2A?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-228B22?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-9370DB?style=flat-square&logo=MySQL&logoColor=white"/></a>
