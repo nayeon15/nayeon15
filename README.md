@@ -11,11 +11,11 @@
 	
 
 ## 🔥 tech stack 🔥
+<img src="https://img.shields.io/badge/JavaScript-FFD9E4?style=flat-square&logo=simpleiconsJavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Java-A52A2A?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-228B22?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-9370DB?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-87CEFA?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-778899?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-FF6347?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000080?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-E9967A?style=flat-square&logo=Slack&logoColor=white"/></a>
