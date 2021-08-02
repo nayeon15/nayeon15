@@ -4,7 +4,7 @@
   
   
  ## 🙌 hi there 🙌
- ### I'm Android developer **"je vais vaincre l'adversité"**
+ ### I'm React Native developer **"je vais vaincre l'adversité"**
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/nayeon15/)](https://github.com/nayeon15/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayeonvita@gmail.com)](mailto:nayeonvita@gmail.com)
