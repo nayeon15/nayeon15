@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/Slack-E9967A?style=flat-square&logo=Slack&logoColor=white"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeon15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<script src="https://gist.github.com/nayeon15/0edd829d98528266dd6648209942b1e3.js"></script>
 
 </div>
 
