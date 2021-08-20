@@ -4,7 +4,7 @@
   
   
 <h3 align="center"> 🧸 Hi there 🧸 </h3>
-<p align="center">I'm React Native developer *"je vais vaincre l'adversité"*  </p>
+	<p align="center">I'm React Native developer <h4>"je vais vaincre l'adversité"</h4>  </p>
 <p align="center"> I want to be a better person today than yesterday.  </p>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/nayeon15/)](https://github.com/nayeon15/)
