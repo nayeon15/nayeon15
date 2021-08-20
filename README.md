@@ -5,14 +5,16 @@
   
  ## 🙌 hi there 🙌
  ### I'm React Native developer **"je vais vaincre l'adversité"**
+### I want to be a better person today than yesterday.
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/nayeon15/)](https://github.com/nayeon15/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayeonvita@gmail.com)](mailto:nayeonvita@gmail.com)
+-------
 	
-
 ## 🔥 tech stack 🔥
 <img src="https://img.shields.io/badge/ReactNative-6E5C97?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-FFD9E4?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-708098?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-192F5E?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-A52A2A?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-228B22?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-87CEFA?style=flat-square&logo=C&logoColor=white"/></a>
