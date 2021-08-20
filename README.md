@@ -4,13 +4,13 @@
   
   
 <h3 align="center"> 🧸 Hi there 🧸 </h3>
-<p align="center">I'm React Native developer **"je vais vaincre l'adversité"**  </p>
+<p align="center">I'm React Native developer *"je vais vaincre l'adversité"*  </p>
 <p align="center"> I want to be a better person today than yesterday.  </p>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/nayeon15/)](https://github.com/nayeon15/)
 <p align="center">
   <a href="https://velog.io/@nayeon15"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@nayeon15o"/></a>&nbsp
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayeonvita@gmail.com)](mailto:nayeonvita@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayeonvita@gmail.com)](mailto:nayeonvita@gmail.com) </p>
 -------
 	
 <h3 align="center">🛠 Tech Stack 🛠</h3>
