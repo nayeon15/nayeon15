@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Node.js-192F5E?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-275793?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-4C82B4?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B%&logoColor=white"/></a> </n>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B%&logoColor=white"/></a> <br/>
 <img src="https://img.shields.io/badge/C-77B2C5?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-5871A3?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-BAD1E6?style=flat-square&logo=Figma&logoColor=white"/></a>
