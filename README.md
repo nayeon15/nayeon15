@@ -11,6 +11,7 @@
 	
 
 ## 🔥 tech stack 🔥
+<img src="https://img.shields.io/badge/ReactNative-6E5C97?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-FFD9E4?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-A52A2A?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-228B22?style=flat-square&logo=Kotlin&logoColor=white"/></a>
