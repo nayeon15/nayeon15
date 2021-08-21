@@ -31,7 +31,9 @@
 <img src="https://img.shields.io/badge/Slack-9CC0BA?style=flat-square&logo=Slack&logoColor=white"/></a>
 
 
-<br>
+<br/>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nayeon15)](https://velog.io/@nayeon15)
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnayeon&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
