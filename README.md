@@ -30,9 +30,11 @@
 <img src="https://img.shields.io/badge/Notion-6187C8?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-9CC0BA?style=flat-square&logo=Slack&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeon15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnayeon&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
 
 </div>
 
