@@ -13,8 +13,8 @@
 </a>&nbsp
   <a href="mailto:nayeonvita@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=nayeonvita@gmail.com"/></a>
 </p>
-------------------------------
-	
+
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>
 <img src="https://img.shields.io/badge/ReactNative-6E5C97?style=flat-square&logo=React&logoColor=white"/></a>
